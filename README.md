@@ -12,13 +12,14 @@ Iris-versicolor
 Iris-virginica
 
 
-It covers the end-to-end ML pipeline: ✅ Data Loading
+It covers the end-to-end ML pipeline: 
+✅ Data Loading
 ✅ Data Preprocessing
 ✅ Exploratory Data Analysis (EDA)
 ✅ Model Building and Training
 ✅ Evaluation using metrics and visualizations
 
-🛠️ Tools and Libraries
+🛠️ Tools and Libraries:
 Python
 Pandas
 Numpy
@@ -26,14 +27,14 @@ Matplotlib
 Seaborn
 Scikit-learn
 
-📊 Dataset
+📊 Dataset:
 
 Standard Iris dataset containing:
 Sepal Length & Width
 Petal Length & Width
 Species (target)
 
-🚀 Features Implemented
+🚀 Features Implemented:
 ✅ Data cleaning and handling missing values
 ✅ Label encoding (if required)
 ✅ Data visualization using scatter plots, pair plots, heatmaps
@@ -46,10 +47,8 @@ Decision Trees
 Random Forest
 
 ✅ Evaluation using:
-Accuracy
-Precision, Recall, F1-Score
-Confusion Matrix
 
+AccuracyPrecision, Recall, F1-ScoreConfusion Matrix
 ✅ PCA for 2D visualization of clusters
 ✅ Hyperparameter tuning (k in KNN, max_depth in Decision Trees)
 
